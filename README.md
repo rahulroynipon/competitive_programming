@@ -1,1 +1,1 @@
-[#Array Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774)https://codeforces.com/group/MWSDmqGsZm/contest/219774
+[#ArrayQuestion](https://codeforces.com/group/MWSDmqGsZm/contest/219774)https://codeforces.com/group/MWSDmqGsZm/contest/219774
