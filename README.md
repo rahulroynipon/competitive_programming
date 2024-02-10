@@ -1,14 +1,14 @@
-##A_Array Question
+## A_Array Question
 
 [Array Question_Link](https://codeforces.com/group/MWSDmqGsZm/contest/219774)
 
 
-##B_Codeforces Round 923 (Div. 3)
+## B_Codeforces Round 923 (Div. 3)
 
 [Round_923_(Div.3)_Link](https://codeforces.com/contest/1927)
 
 
-##C_Codeforces Round 920 (Div. 3)
+## C_Codeforces Round 920 (Div. 3)
 
 [Round_920_(Div.3)_Link](https://codeforces.com/contest/1921)
 
