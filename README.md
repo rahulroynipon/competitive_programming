@@ -12,3 +12,12 @@
 
 [Round_920_(Div.3)_Link](https://codeforces.com/contest/1921)
 
+
+
+## D_Codeforces Round 925 (Div. 3)
+
+[Round_925_(Div.3)_Link](https://codeforces.com/contest/1931)
+
+
+
+
