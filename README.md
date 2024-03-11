@@ -18,6 +18,10 @@
 
 [Round_925_(Div.3)_Link](https://codeforces.com/contest/1931)
 
+## Codeforces Round 933 (Div. 3)
+
+[Codeforces Round 933 (Div. 3)](https://codeforces.com/contest/1941)
+
 
 
 
